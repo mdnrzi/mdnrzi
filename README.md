@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @mdnrzi
-- 👀 I’m interested in Learning New Things
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mdnrzi/mdnrzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I am an experienced .NET developer with a passion for high-tech technologies like deep learning. I have spent years honing my skills in the .NET framework and I am always excited to learn more about the latest advancements in the field. In my free time, I enjoy conducting research on deep learning and exploring its potential applications. I am excited to bring my expertise to any project and continue to grow in this exciting field.
